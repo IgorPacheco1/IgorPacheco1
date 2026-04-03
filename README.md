@@ -1,16 +1,63 @@
-## Hi there 👋
+#  Olá, eu sou Igor Pacheco
 
-<!--
-**IgorPacheco1/IgorPacheco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudando de Análise e Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Atualmente estou cursando Análise e desenvolvimento de sistemas, e estou buscando um oportunidade de ingressar na área de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creio que um dos meios para conseguir essa oportunidade seja estando preparado para ela, por conta disso vou focar nos fundamentos para conseguir chegar com uma boa base.
+
+📊 Atualmente me aventurando em : C#, JAVA.
+
+🛠️ Background técnico: Desenvolvimento de software (Java/C#), automação de processos e Power Platform(Power automate/Power Apps).
+
+
+   <p align="left"> 
+    <a href="https://github.com/IgorPacheco1?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/IgorPacheco1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/IgorPacheco1?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/IgorPacheco1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/igor-pacheco-247b65302"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
+    <a href="https://discord.com/users/igor-pacheco-247b65302"
+        target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+   </p>
+
+---
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <!-- Substitua ou adicione as tecnologias que você utiliza. Ícones do devicon.dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" alt="Csharp" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorPacheco1&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
