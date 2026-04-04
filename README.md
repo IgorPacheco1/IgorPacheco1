@@ -35,7 +35,6 @@ Creio que um dos meios para conseguir essa oportunidade seja estando preparado p
 ### 🤖 Linguagens e tecnologias
 
 <p align="left">
-  <!-- Substitua ou adicione as tecnologias que você utiliza. Ícones do devicon.dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" align="middle" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" alt="Csharp" align="middle" />
