@@ -8,19 +8,10 @@ Creio que um dos meios para conseguir essa oportunidade seja estando preparado p
 
 📊 Atualmente me aventurando em : C#, JAVA.
 
-🛠️ Background técnico: Desenvolvimento de software (Java/C#), automação de processos e Power Platform (Power automate/Power Apps).
+🛠️ Background técnico: Desenvolvimento de software (C#/Java), automação de processos e Power Platform (Power automate/Power Apps).
 
 
-   <p align="left"> 
-    <a href="https://github.com/IgorPacheco1?tab=followers">
-         <img 
-         alt="followers" 
-         title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/IgorPacheco1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-    <a href="https://github.com/IgorPacheco1?tab=repositories&sort=stargazers">
-         <img alt="total stars" 
-         title="Repositorios" 
-         src="https://custom-icon-badges.demolab.com/github/stars/IgorPacheco1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+   <p align="left">
     <a href="https://www.linkedin.com/in/igor-pacheco-247b65302"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
