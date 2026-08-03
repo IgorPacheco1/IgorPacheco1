@@ -64,7 +64,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=I
 
 ## 🌐 Onde me encontrar
 
-<p align="left"> <a href="www.linkedin.com/in/igor-pacheco1" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Igor%20Pacheco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/igor-pacheco1/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Igor%20Pacheco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <a href="mailto:igopacheco7@gmail.com"> <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
