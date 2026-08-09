@@ -18,17 +18,20 @@ Hoje concentro meus estudos principalmente em:
 
 ---
 
-##  Tecnologias
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" alt="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
 </p>
+
 
 ### 📖 Atualmente estudando
 
@@ -48,23 +51,13 @@ Hoje concentro meus estudos principalmente em:
 ## 📈 GitHub Stats
 
 
-<p align="center">
-  <img 
-    height="165" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPacheco1&theme=tokyonight&hide_border=true" 
-  />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPacheco1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
 
-<p align="center">
-  <img 
-    width="100%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IgorPacheco1&theme=tokyo-night&hide_border=true&area=true" 
-  />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPacheco1&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
-</p>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IgorPacheco1&theme=tokyo-night&hide_border=true&area=true" /> </p>
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" /> </p>
 
 ---
 
