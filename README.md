@@ -45,16 +45,8 @@ Hoje concentro meus estudos principalmente em:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorPacheco1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center"> 
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPacheco1&theme=tokyonight&hide_border=true" /> 
-</p>
-
-<p align="center"> 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IgorPacheco1&theme=tokyo-night&hide_border=true&area=true" /> 
+  <img height="180" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180" align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorPacheco1&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
