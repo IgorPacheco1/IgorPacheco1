@@ -45,7 +45,7 @@ Hoje concentro meus estudos principalmente em:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorPacheco1&show_icons=true&theme=tokyonight&count_private=&cache_seconds=1800" />
   <img height="180" align="top" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorPacheco1&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" />
 </p>
 
